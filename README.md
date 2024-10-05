@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here](https://github.com/iamprincetj/faq-accordion-main)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Live Site URL: [Here](https://iamprincetj.github.io/faq-accordion-main/)
 
 ## My process
 
